@@ -1,2 +1,5 @@
 # TL_HydroAtlas
-Working with HydoAtlas data in Timor-leste
+
+Practicing with git version control.
+
+Working with HydoAtlas data in Timor-Leste
